@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Malik</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" width="400" src="https://images.app.goo.gl/7TsyJHdApY7bYq278">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/7TsyJHdApY7bYq278">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravmalik123&label=Profile%20views&color=0e75b6&style=flat" alt="souravmalik123" /> </p>
