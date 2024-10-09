@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Mobile Price Range Prediction**
 
-- 💬 Ask me about for Features Prediction **Features Prediction**
+- 💬 Ask me about for  **Features Prediction**
 
-- 📫 How to reach me maliksourav630@gmail.com **maliksourav630@gmail.com**
+- 📫 How to reach me  **maliksourav630@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
