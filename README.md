@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sourav Malik</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-
-
 ![data-science-2](https://github.com/user-attachments/assets/d8188b3d-014c-430d-a50a-f0fec41647a0)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravmalik123&label=Profile%20views&color=0e75b6&style=flat" alt="souravmalik123" /> </p>
 
-- ⚡ funny fact **I am funny**
+- 🔭 I’m currently working on **Top Mentor Internship**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👯 I’m looking to collaborate on **Netflix Movies TV Shows clustering**
+
+- 🤝 I’m looking for help with **Mobile Price Range Prediction**
+
+- 💬 Ask me about for Features Prediction **Features Prediction**
+
+- 📫 How to reach me maliksourav630@gmail.com **maliksourav630@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +29,48 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravmalik123&show_icons=true&locale=en&layout=compact" alt="souravmalik123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravmalik123&show_icons=true&locale=en" alt="souravmalik123" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
